@@ -1,0 +1,9 @@
+{
+	"name": "pinakdemoltiadf",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7bb7c267-3ece-4a3f-9ed0-5e58056fffdb",
+		"tenantId": "71ae60b0-77c5-44b6-b6c2-b55d0203882d"
+	}
+}
